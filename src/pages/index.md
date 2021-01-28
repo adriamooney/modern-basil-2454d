@@ -3,7 +3,7 @@ title: Home
 has_intro: true
 intro_content: >
   I'm a full stack web developer with 13 years of professional web development
-  experience. 
+  experience.
 
 
   People are always happy with my results and say I'm awesome to work with,
