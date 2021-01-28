@@ -1,11 +1,17 @@
 ---
 title: Home
 has_intro: true
-intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+intro_content: >
+  I'm a full stack web developer with 13 years of professional web development
+  experience. 
+
+
+  People are always happy with my results and say I'm awesome to work with,
+  highly productive and very reliable.
+
+
+  When I'm not coding I enjoy riding my bike, slack-lining, cooking, and making
+  kombucha.
 intro_actions:
   - label: Learn More
     url: /about
