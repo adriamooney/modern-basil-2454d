@@ -24,17 +24,17 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "GitHub",
-                "url": "https://github.com/adriamooney",
-                "style": "icon",
-                "icon_class": "fa-github",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/adriamooney/",
                 "style": "icon",
                 "icon_class": "fa-linkedin",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/adriamooney",
+                "style": "icon",
+                "icon_class": "fa-github",
                 "new_window": true
             }
         ],
