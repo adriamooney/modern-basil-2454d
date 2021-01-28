@@ -12,10 +12,7 @@ intro_content: >
 
   When I'm not coding I enjoy riding my bike, slack-lining, cooking, and making
   kombucha.
-intro_actions:
-  - label: Contact
-    url: /contact
-    style: secondary
+intro_actions: []
 has_more_link: true
 more_link_text: Read more
 template: home
