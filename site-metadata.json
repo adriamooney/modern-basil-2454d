@@ -26,7 +26,7 @@
             {
                 "label": "GitHub",
                 "url": "https://github.com/adriamooney",
-                "style": "primary",
+                "style": "link",
                 "icon_class": "fa-github",
                 "new_window": true
             },
