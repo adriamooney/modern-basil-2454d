@@ -14,7 +14,7 @@ I am highly focused, productive and deadline driven.  I follow specs accurate
 
 *   Javascript, JQuery, frameworks (Meteor, React, VueJs)
 
-*   Responsive design
+*   Responsive design/development
 
 *   Wordpress, PHP/MySQL
 
