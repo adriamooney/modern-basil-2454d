@@ -6,9 +6,9 @@ template: page
 ---
 CORE STRENGTHS
 
-I have an obsessive desire to find solutions to problems.  I have many years of experience interfacing with customers and helping them achieve their goals.  I get along with everyone and get shit done.  I am passionate about the cannabis space and excited to apply my consultative and customer service experience to helping people connect with cannabis successfully. 
+I have an obsessive desire to find solutions to problems.  I have many years of experience interfacing with customers and helping them achieve their goals.  I get along with everyone and get shit done.  I am passionate about the cannabis space and excited to apply my consultative and customer service experience to helping people connect with cannabis successfully.
 
-### TECHNOLOGY CAPABILITIES
+TECHNOLOGY CAPABILITIES
 
 *   Website design and development
 
@@ -18,7 +18,7 @@ I have an obsessive desire to find solutions to problems.  I have many years o
 
 *   Metrc API
 
-### EMPLOYMENT HISTORY
+EMPLOYMENT HISTORY
 
 #### Web Developer – [TBD Labs](https://tbdlabs.net/) – current
 
@@ -52,7 +52,7 @@ Barista, cashier
 
 Cashier, delivery driver
 
-### EDUCATION
+EDUCATION
 
 *   2004-2006 Master of Arts, Honors with Distinction, Public Policy, Northern Arizona University, GPA 4.0
 
@@ -66,7 +66,6 @@ Cashier, delivery driver
 
 **Affiliations:** President of Language and Culture Club, President and Founder of NAU Badminton Club
 
-### FUN STUFF
+FUN STUFF
 
 I love to be outdoors slack lining and camping. I also enjoy cooking healthy food and working out.
-
