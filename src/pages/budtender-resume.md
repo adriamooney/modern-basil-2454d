@@ -1,6 +1,5 @@
 ---
 title: Budtender
-subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 img_alt: lorem-ipsum
 template: page
