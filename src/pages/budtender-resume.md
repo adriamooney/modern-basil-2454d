@@ -10,9 +10,7 @@ I have an obsessive desire to find solutions to problems.  I have many years o
 
 TECHNOLOGY CAPABILITIES
 
-*   Website design and development
-
-*   Web application development
+*   Website, application design and development
 
 *   Wordpress, e-commerce platforms
 
