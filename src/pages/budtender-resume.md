@@ -6,7 +6,7 @@ template: page
 ---
 CORE STRENGTHS
 
-I have an obsessive desire to find solutions to problems.  I have many years of experience interfacing with customers and helping them achieve their goals.  I get along with everyone and get shit done.  I am passionate about the cannabis space and excited to apply my consultative and customer service experience to helping people connect with cannabis successfully.
+I have an obsessive desire to find solutions to problems.  I have many years of experience interfacing with customers and helping them achieve their goals.  I get along with everyone and get shit done.  I am passionate about the cannabis space and excited to apply my consultative and customer service experience to help people connect with cannabis successfully.
 
 TECHNOLOGY CAPABILITIES
 
