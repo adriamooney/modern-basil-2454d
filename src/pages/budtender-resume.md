@@ -59,11 +59,3 @@ EDUCATION
 *   1999-2003 Bachelor of Arts, German, Linguistics, and Comparative Literature, Trinity University, GPA 3.3
 
 *   1995-1999 High School Diploma, Palo Alto High School, GPA 3.8
-
-**Awards:** Phi Kappa Phi Honor Society, Delta Phi Alpha Honor Society, Dean's List 
-
-**Affiliations:** President of Language and Culture Club, President and Founder of NAU Badminton Club
-
-FUN STUFF
-
-I love to be outdoors slack lining and camping. I also enjoy cooking healthy food and working out.
