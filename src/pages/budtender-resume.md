@@ -32,11 +32,11 @@ Worked with marketing, 3rd party companies and engineers to develop lead generat
 
 ###### Senior Implementation Consultant – [Certain Software](http://certainsoftware.com/) October 2007 – May 2009
 
-Worked clients to implement event registration software.  Conducted trainings and consultations.
+Worked with clients to implement event registration software.  Conducted trainings and consultations.
 
 ###### Marketing Associate – [Meez.com](http://meez.com/) April 2007 – September 2007
 
-Creative development, worked with 3D animators to develop virtual clothing and accessories
+Creative development, worked with 3D animators to develop virtual clothing and accessories.
 
 ###### Main Street Cafe - September 2003-May 2004
 
