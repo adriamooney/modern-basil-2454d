@@ -112,4 +112,4 @@ Develop/design/maintain Wordpress websites for small businesses and musicians.
 
 ### FUN STUFF
 
-Besides my passion for CSS, I love to be outdoors slack lining and camping. I also enjoy cooking healthy food and working out.
+I love to be outdoors slack lining and camping. I also enjoy cooking healthy food and working out.
