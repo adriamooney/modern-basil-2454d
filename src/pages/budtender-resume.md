@@ -20,35 +20,35 @@ TECHNOLOGY CAPABILITIES
 
 EMPLOYMENT HISTORY
 
-#### Web Developer – [TBD Labs](https://tbdlabs.net/) – current
+###### Web Developer – [TBD Labs](https://tbdlabs.net/) – current
 
 Work on a variety of web applications and websites, consulting with people from a wide range of industries to help achieve business goals.
 
-#### Lead Front-end Developer – [Vidcaster.com](http://www.vidcaster.com/) December 2011 – August 2014
+###### Lead Front-end Developer – [Vidcaster.com](http://www.vidcaster.com/) December 2011 – August 2014
 
 Consulted directly with clients on best practice implementations of video sites used for marketing and training.
 
-#### Web Developer – [Credit.com](http://www.credit.com/) June 2009 – October 2011
+###### Web Developer – [Credit.com](http://www.credit.com/) June 2009 – October 2011
 
 Worked with marketing, 3rd party companies and engineers to develop lead generation products, content and landing pages.
 
-#### Senior Implementation Consultant – [Certain Software](http://certainsoftware.com/) October 2007 – May 2009
+###### Senior Implementation Consultant – [Certain Software](http://certainsoftware.com/) October 2007 – May 2009
 
 Worked clients to implement event registration software.  Conducted trainings and consultations.
 
-#### Marketing Associate – [Meez.com](http://meez.com/) April 2007 – September 2007
+###### Marketing Associate – [Meez.com](http://meez.com/) April 2007 – September 2007
 
 Creative development, worked with 3D animators to develop virtual clothing and accessories
 
-#### Main Street Cafe September - 2003-May 2004
+###### Main Street Cafe - September 2003-May 2004
 
 Cashier, server
 
-#### Macy's Coffeeshop - May 2004-June 2005
+###### Macy's Coffeeshop - May 2004-June 2005
 
 Barista, cashier
 
-#### Pizza A-Go-Go - 1999-2001 (seasonal)
+###### Pizza A-Go-Go - 1999-2001 (seasonal)
 
 Cashier, delivery driver
 
