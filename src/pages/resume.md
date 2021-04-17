@@ -5,43 +5,31 @@ excerpt: lorem-ipsum
 img_alt: lorem-ipsum
 template: page
 ---
-### PRIMARY OBJECTIVE
-
-To work with a progressive, technology-driven organization where I can be challenged while developing applications and user experiences that apply my passion for Javascript, CSS, and HTML5 .
-
 ### CORE STRENGTHS
 
-I implement designs using elegant, clean and efficient code. I am highly focused, productive and deadline driven. I am an effective debugger and thorough browser tester. I follow specs accurately and communicate across teams fluidly to get work done. I have an obsessive desire to find solutions to problems. I'm not "set in my ways" — I always want to learn new and better ways of doing things. Everyone likes to work with me because I'm reliable and easy to get along with.
+I am highly focused, productive and deadline driven.  I follow specs accurately and communicate across teams fluidly to get work done. I have an obsessive desire to find solutions to problems. I'm not "set in my ways" — I always want to learn new and better ways of doing things. Everyone likes to work with me because I'm reliable and easy to get along with.
 
 ### TECHNOLOGY CAPABILITIES
 
-*   XHTML and HTML5
+*   HTML, CSS
 
-*   CSS2 and CSS3, LESS, OOCSS, Twitter Bootstrap
+*   Javascript, JQuery, frameworks (Meteor, React, VueJs)
 
-*   Javascript and JQuery
-
-*   AJAX, REST, JSON
-
-*   Javascript MVC frameworks: CanJS \[also basic knowledge of Angular and Backbone]. Meteor
-
-*   Django templating, Javascript templating (mustache, underscore, EJS etc.)
-
-*   Responsive design, web design
+*   Responsive design
 
 *   Wordpress, PHP/MySQL
 
-*   GIT, SVN
+*   Python, Flask, Django
 
-*   Jira, Trello, Balsamiq, Gliffy
+*   Whatever's clever
 
 ### EMPLOYMENT HISTORY
 
-#### Front-end Developer – TBD Labs – current
+#### Front-end Developer – [TBD Labs](https://tbdlabs.net/) – current
 
 Develop and maintain websites and web applications (freelance and contract projects).
 
-Technologies: Javascript, Meteor, Wordpress, HTML, CSS, LESS, git.
+Technologies: Python, Flask, Plotly, Javascript, Meteor, Wordpress, HTML, CSS, LESS, git.
 
 #### Lead Front-end Developer – [Vidcaster.com](http://www.vidcaster.com) December 2011 – August 2014
 
