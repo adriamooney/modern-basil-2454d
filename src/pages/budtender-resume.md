@@ -30,7 +30,7 @@ Consulted directly with clients on best practice implementations of video sites 
 
 Worked with marketing, 3rd party companies and engineers to develop lead generation products, content and landing pages.
 
-###### Senior Implementation Consultant – [Certain Software](http://certainsoftware.com/) /  2007 – 2009
+###### Senior Implementation Consultant – [Certain Software](http://certainsoftware.com/) //  2007 – 2009
 
 Worked with clients to implement event registration software.  Conducted trainings and consultations.
 
@@ -38,17 +38,11 @@ Worked with clients to implement event registration software.  Conducted trainin
 
 Creative development, worked with 3D animators to develop virtual clothing and accessories.
 
-###### Macy's Coffeeshop  // 2004-2005
+###### Barista, cashier - Macy's Coffeeshop  // 2004-2005
 
-Barista, cashier
+###### Cashier, server - Main Street Cafe  // 2003-2004
 
-###### Main Street Cafe  // 2003-2004
-
-Cashier, server
-
-###### Pizza A-Go-Go // 1999-2001 (seasonal)
-
-Cashier, delivery driver
+###### Delivery driver, cashier - Pizza A-Go-Go // 1999-2001 (seasonal)
 
 EDUCATION
 
