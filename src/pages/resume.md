@@ -36,7 +36,7 @@ Technologies: Python, Flask, Plotly, Javascript, Meteor, Wordpress, HTML, CSS, 
 
 *   Upgraded legacy code to more efficient CSS, Bootstrap, Javascipt MVC with REST API
 
-#### Web Developer // [Credit.com](http://www.credit.com) // June 2009 – October 2011
+##### Web Developer // [Credit.com](http://www.credit.com) // June 2009 – October 2011
 
 *   Maintained front-end code and developed new designs and features on a high traffic consumer website with a vast code base
 
@@ -52,45 +52,27 @@ Technologies: Python, Flask, Plotly, Javascript, Meteor, Wordpress, HTML, CSS, 
 
 *   Implemented online event registration software for clients and led web-based training sessions
 
-*   Worked with distributed team on complex implementation and trainings for marquee clients 
+*   Worked with distributed team on complex implementation and trainings for marquee clients
 
 *   Interfaced with clients for customer support and best-practice consultation
 
 *   Advocated for and demonstrated better practices in web coding standards when coding client websites
 
-Position Summary: Implemented online event registration software for clients and led web-based training sessions. Used HTML, CSS, and Javascript to customize event registration flows to client specs. Ongoing maintenance and customer support for implementations.
+##### Marketing Associate // Meez // April 2007 – September 2007
 
-Technologies: HTML, CSS
+*   Worked with 3D animators and other stakeholders to develop new products for the virtual marketplace
 
-Skills Learned: Improved knowledge of markup, learned CSS and how to markup layouts from designs to make websites.
+*   Maintained online product catalog of virtual clothing and animations
 
-#### Marketing Associate – [Meez.com](http://meez.com) April 2007 – September 2007
+*   Developed on-brand virtual clothing and animations for musicians and brands
 
-Worked with 3D animators to develop new products for the virtual marketplace. Maintained online product catalog of virtual clothing and animations.
-
-#### Assistant Web Developer – [Lanseng Technologies](http://lanseng.com) June 2006 – May 2007
+##### Assistant Web Developer // Lanseng Technologies // June 2006 – May 2007
 
 Assisted Lead Developer and Founder at Lanseng Technologies on client projects.
 
-### PORTFOLIO/ENTREPRENEURSHIP
+##### Freelance German to English Translator // April 2003 – May 2005
 
-#### Cofounder – [Power 9 Pro](http://power9pro.com) August 2007 – Current
-
-Developed accessories for Magic the Gathering players. Worked with designer and engineer to get from concept to production.
-
-*   Design print and web marketing materials, manage online advertising campaigns
-
-*   Design, develop and maintain Power 9 Pro website and wordpress blog
-
-*   Operate online sales via FoxyCart and shipping/inventory management via Shipwire
-
-#### [Freelance Web Developer](http://adriamooney.com/portfolio/) – January 2008 – Current
-
-Develop/design/maintain Wordpress websites for small businesses and musicians.
-
-#### Freelance German to English Translator – April 2003 – May 2005
-
-*   Technical language (forestry, biogeochemistry, global economics and public policy)
+Technical language (forestry, biogeochemistry, global economics and public policy)
 
 *   Published Translator (Thuringian Wood Species, MPI-BGC Jena)
 
@@ -106,7 +88,3 @@ Develop/design/maintain Wordpress websites for small businesses and musicians.
 
 **Awards:** Phi Kappa Phi Honor Society, Delta Phi Alpha Honor Society, Dean's List
 **Affiliations:** President of Language and Culture Club, President and Founder of NAU Badminton Club
-
-### FUN STUFF
-
-I love to be outdoors slack lining and camping. I also enjoy cooking healthy food and working out.
