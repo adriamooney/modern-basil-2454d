@@ -6,21 +6,19 @@ template: page
 ---
 ### CAREER SUMMARY
 
-Full stack developer with 13 years experience working on startup teams and freelance projects.  Proven ability to produce efficiently and carry out visions while building applications and sites from end to end.  Specializes in SaaS applications. 
+Full stack developer with 13 years experience working on startup teams and freelance projects.  Proven ability to produce efficiently and carry out visions while building applications and sites from end to end.  Specializes in SaaS applications.
 
 ### TECHNOLOGY SKILLS
 
-**Front-end**: Javascript and frameworks (Meteor, React, VueJs), HTML, CSS, Wordpress, JAMstack
+*   **Front-end**: Javascript and frameworks (Meteor, React, VueJs), HTML, CSS, Wordpress, JAMstack
 
-**Back-end**: Python (Flask and Django), PHP
+*   **Back-end**: Python (Flask and Django), PHP
 
-**Other**: Git, GCP, MongoDB, MySQL, SQLAlchemy
+*   **Other**: Git, GCP, MongoDB, MySQL, SQLAlchemy
 
 ### EMPLOYMENT HISTORY
 
-##### Lead Full-stack Developer – xmata.io 
-
-*June 2020-present*
+##### Lead Full-stack Developer // xmata.io // *June 2020-present*
 
 #### Front-end Developer – [TBD Labs](https://tbdlabs.net/) – current
 
