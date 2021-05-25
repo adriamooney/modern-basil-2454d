@@ -20,7 +20,7 @@
             {
                 "label": "Resume",
                 "url": "resume",
-                "style": "secondary",
+                "style": "icon",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
                 "no_follow": false,
