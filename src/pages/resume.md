@@ -3,7 +3,7 @@ title: Full Stack Developer
 excerpt: lorem-ipsum
 img_alt: lorem-ipsum
 template: page
-subtitle: 'adriamooney[at]gmail  // 928.600.3500'
+subtitle: 'adriamooney[at]gmail *** 928.600.3500'
 ---
 ### CAREER SUMMARY
 
