@@ -9,7 +9,7 @@ subtitle: 'adriamooney[at]gmail  // 928.600.3500'
 
 Full stack developer with 13 years experience working on startup teams and freelance projects.  Proven ability to produce efficiently and carry out visions while building applications and sites from end to end.  Specializes in SaaS applications.
 
-### TECHNOLOGY SKILLS
+### TECHNICAL SUMMARY
 
 *   **Front-end**: Javascript and frameworks (Meteor, React, VueJs), JQuery, HTML, CSS, Wordpress, JAMstack, Bootstrap
 
