@@ -18,15 +18,15 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 ### EMPLOYMENT HISTORY
 
-##### Lead Full-stack Developer // xmata.io // *June 2020-present*
+##### Lead Full-stack Developer // [xmata.io](https://xmata.io) // *June 2020-present*
 
-#### Front-end Developer – [TBD Labs](https://tbdlabs.net/) – current
+##### Front-end Developer // [TBD Labs](https://tbdlabs.net/) – current
 
 Develop and maintain websites and web applications (freelance and contract projects).
 
 Technologies: Python, Flask, Plotly, Javascript, Meteor, Wordpress, HTML, CSS, LESS, git.
 
-#### Lead Front-end Developer – [Vidcaster.com](http://www.vidcaster.com) December 2011 – August 2014
+##### Lead Front-end Developer – [Vidcaster.com](http://www.vidcaster.com) December 2011 – August 2014
 
 Position Summary: Develop and maintain front-end features for VidCaster, a cloud based video content management system. Design and code custom themes for client video sites (Django based). Assist with scope and prioritization of new features.
 
