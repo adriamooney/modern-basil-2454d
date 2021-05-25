@@ -20,7 +20,7 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 ##### Lead Full-stack Developer // [xmata.io](https://xmata.io) // *June 2020-present*
 
-*   *Worked with data scientist to *
+*   \*Worked with data scientist to \*
 
 ##### Front-end Developer // [TBD Labs](https://tbdlabs.net/) // 2014 – present
 
@@ -32,17 +32,21 @@ Technologies: Python, Flask, Plotly, Javascript, Meteor, Wordpress, HTML, CSS, 
 
 *    Develop and maintain front-end features video content management system
 
-*    Scope and prioritization of new features
+*   Scope and prioritization of new features
 
 *   Upgraded legacy code to more efficient CSS, Bootstrap, Javascipt MVC with REST API
 
-#### Web Developer – [Credit.com](http://www.credit.com) June 2009 – October 2011
+#### Web Developer // [Credit.com](http://www.credit.com) //June 2009 – October 2011
 
-Position Summary: Maintained front-end code and developed new designs and features on a high traffic consumer website with a vast code base. Develop and maintain large, highly customized Wordpress/Thesis [blog](http://www.credit.com/blog) and CMS.
+*   Maintained front-end code and developed new designs and features on a high traffic consumer website with a vast code base
 
-Technologies: HTML, CSS, Javascript, JSP, JSF, XML, XSLT, Stripes, PHP/Wordpress
+*   Developed highly customized Wordpress CMS for content marketing team
 
-Skills Learned: Learned agile and scrum web development cycles including version control with SVN. Improved HTML and CSS skills to mastery. Improved knowledge of Wordpress and PHP. Learned Javascript and JQuery, XML, XSLT and Java based templating languages.
+*   Worked with sales stakeholders to code landing pages with fast turnaround
+
+*   Produced effectively under agile and scrum development cycles
+
+*   Consumed data via XML to build credit card recommendations and tools 
 
 #### Senior Implementation Consultant – [Certain Software](http://certainsoftware.com) October 2007 – May 2009
 
