@@ -18,24 +18,26 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 ### EMPLOYMENT HISTORY
 
-##### Lead Full-stack Developer // [xmata.io](https://xmata.io) // *June 2020-present*
+##### Lead Full-stack Developer / Co-founder // [xmata.io](https://xmata.io) // *June 2020-present*
 
 *   Worked with data scientist to develop SaaS application for consuming sentiment analysis visualizations
 *   Designed and developed application using Python Flask, Plotly, Stripe API, GCP, Javascript, Bootstrap
 *   Iterated on features based on customer feedback, improved speed and performance
 *   Led JAMstack implementation for customer facing website
 
-##### Front-end Developer // [TBD Labs](https://tbdlabs.net/) // 2014 – present
+##### Full-stack Developer // [TBD Labs](https://tbdlabs.net/) // 2014 – present
 
 *   Developed and maintained Meteor web applications for monthly invoice management and equipment rentals
 *   Designed and maintained JAMstack sites for small businesses
-*   Implemented minisites for warranty registration
+*   Implemented  warranty registration mini-site designs for brands such as KitchenAid and Nest
 
 ##### Lead Front-end Developer // Vidcaster (now [vidlet.com](http://vidlet.com)) // December 2011 – August 2014
 
-*    Develop and maintain front-end features video content management system
+*   Developed and maintained front-end features for video content management system
 
-*   Scope and prioritization of new features
+*   Scope and prioritization of new features, advocate for sensible improvements and upgrades
+
+*   Developed custom themes for clients as well as design of stock-themes for video site theme builder
 
 *   Upgraded legacy code to more efficient CSS, Bootstrap, Javascipt MVC with REST API
 
