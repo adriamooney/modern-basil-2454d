@@ -15,7 +15,7 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 *   **Back-end**: Python (Flask and Django), NodeJS, PHP
 
-*   **Other**: Git, GCP, MongoDB, MySQL, SQLAlchemy, Plotly, Stripe API
+*   **Other**: Git, GCP, MongoDB, MySQL, SQLAlchemy, Plotly, Stripe API, Adobe design suite
 
 ### EMPLOYMENT HISTORY
 
