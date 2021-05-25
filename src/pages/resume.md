@@ -25,7 +25,7 @@ Full stack developer with 13 years experience working on startup teams and freel
 *   Iterated on features based on customer feedback, improved speed and performance
 *   Led JAMstack implementation for customer facing website
 
-##### Full-stack Developer // [TBD Labs](https://tbdlabs.net/) // 2014 – present
+##### Freelance Full-stack Developer // [TBD Labs](https://tbdlabs.net/) // 2014 – present
 
 *   Developed and maintained Meteor web applications for monthly invoice management and equipment rentals
 *   Designed and maintained JAMstack sites for small businesses
