@@ -31,7 +31,7 @@ Full stack developer with 13 years experience working on startup teams and freel
 *   Designed and maintained JAMstack sites for small businesses
 *   Implemented  warranty registration mini-site designs for brands such as KitchenAid and Nest
 
-##### Lead Front-end Developer // Vidcaster (now [vidlet.com](http://vidlet.com)) // December 2011 – August 2014
+##### Lead Front-end Developer // Vidcaster (now [vidlet.com](http://vidlet.com)) // *Dec 2011 – Aug 2014*
 
 *   Developed and maintained front-end features for video content management system
 
@@ -41,7 +41,7 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 *   Upgraded legacy code to more efficient CSS, Bootstrap, Javascipt MVC with REST API
 
-##### Web Developer // [Credit.com](http://www.credit.com) // June 2009 – October 2011
+##### Web Developer // [Credit.com](http://www.credit.com) // *Jun 2009 – Oct 2011*
 
 *   Maintained front-end code and developed new designs and features on a high traffic consumer website with a vast code base
 
@@ -53,7 +53,7 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 *   Consumed data via XML to build credit card recommendations and tools
 
-##### Senior Implementation Consultant // [Certain Software](http://certainsoftware.com) // October 2007 – May 2009
+##### Senior Implementation Consultant // [Certain Software](http://certainsoftware.com) // Oct 2007 – May 2009
 
 *   Implemented online event registration software for clients and led web-based training sessions
 
@@ -63,7 +63,7 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 *   Advocated for and demonstrated better practices in web coding standards when coding client websites
 
-##### Marketing Associate // Meez // April 2007 – September 2007
+##### Marketing Associate // Meez // Apr 2007 – Sept 2007
 
 *   Worked with 3D animators and other stakeholders to develop new products for the virtual marketplace
 
@@ -71,13 +71,13 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 *   Developed on-brand virtual clothing and animations for musicians and brands
 
-##### Assistant Web Developer // Lanseng Technologies // June 2006 – May 2007
+##### Assistant Web Developer // Lanseng Technologies // Jun 2006 – May 2007
 
 *   Assisted Lead Developer and Founder at Lanseng Technologies on client projects
 
 *   Worked with MySQL database, learned HTML and CSS
 
-##### Freelance German to English Translator // April 2003 – May 2005
+##### Freelance German to English Translator // Apr 2003 – May 2005
 
 *   Technical language specialization (forestry, biogeochemistry, global economics and public policy)
 
