@@ -20,19 +20,21 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 ##### Lead Full-stack Developer // [xmata.io](https://xmata.io) // *June 2020-present*
 
-##### Front-end Developer // [TBD Labs](https://tbdlabs.net/) – current
+*   *Worked with data scientist to *
 
-Develop and maintain websites and web applications (freelance and contract projects).
+##### Front-end Developer // [TBD Labs](https://tbdlabs.net/) // 2014 – present
+
+*   Develop and maintain websites and web applications (freelance and contract projects).
 
 Technologies: Python, Flask, Plotly, Javascript, Meteor, Wordpress, HTML, CSS, LESS, git.
 
-##### Lead Front-end Developer – [Vidcaster.com](http://www.vidcaster.com) December 2011 – August 2014
+##### Lead Front-end Developer // Vidcaster (now [vidlet.com](http://vidlet.com)) // December 2011 – August 2014
 
-Position Summary: Develop and maintain front-end features for VidCaster, a cloud based video content management system. Design and code custom themes for client video sites (Django based). Assist with scope and prioritization of new features.
+*    Develop and maintain front-end features video content management system
 
-Technologies: HTML, CSS, LESS, Django, git, AJAX, REST, JSON, Javascript/JQuery, Javascript templates, RequireJS, Javascript MVC (CanJS)
+*    Scope and prioritization of new features
 
-Skills Learned: Increased Javascript skillset with heavy use of AJAX, RESTful API, Javascript MVC and dynamic UIs. More efficient CSS with LESS and OOCSS. Django and Javascript template languages. GIT for version control.
+*   Upgraded legacy code to more efficient CSS, Bootstrap, Javascipt MVC with REST API
 
 #### Web Developer – [Credit.com](http://www.credit.com) June 2009 – October 2011
 
