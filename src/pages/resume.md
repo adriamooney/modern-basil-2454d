@@ -4,25 +4,23 @@ excerpt: lorem-ipsum
 img_alt: lorem-ipsum
 template: page
 ---
-### CORE STRENGTHS
+### CAREER SUMMARY
 
-I am highly focused, productive and deadline driven.  I follow specs accurately and communicate across teams fluidly to get work done. I have an obsessive desire to find solutions to problems. I'm not "set in my ways" — I always want to learn new and better ways of doing things. Everyone likes to work with me because I'm reliable and easy to get along with.
+Full stack developer with 13 years experience working on startup teams and freelance projects.  Proven ability to produce efficiently and carry out visions while building applications and sites from end to end.  Specializes in SaaS applications. 
 
-### TECHNOLOGY CAPABILITIES
+### TECHNOLOGY SKILLS
 
-*   HTML, CSS
+**Front-end**: Javascript and frameworks (Meteor, React, VueJs), HTML, CSS, Wordpress, JAMstack
 
-*   Javascript, JQuery, frameworks (Meteor, React, VueJs)
+**Back-end**: Python (Flask and Django), PHP
 
-*   Responsive design/development
-
-*   Wordpress, PHP/MySQL
-
-*   Python, Flask, Django
-
-*   Whatever's clever
+**Other**: Git, GCP, MongoDB, MySQL, SQLAlchemy
 
 ### EMPLOYMENT HISTORY
+
+##### Lead Full-stack Developer – xmata.io 
+
+*June 2020-present*
 
 #### Front-end Developer – [TBD Labs](https://tbdlabs.net/) – current
 
