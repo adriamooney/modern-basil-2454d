@@ -96,4 +96,4 @@ Full stack developer with 13 years experience working on startup teams and freel
 *   1995-1999 High School Diploma, Palo Alto High School, GPA 3.8
 
 **Awards:** Phi Kappa Phi Honor Society, Delta Phi Alpha Honor Society, Dean's List
-**Affiliations:** President of Language and Culture Club, President and Founder of NAU Badminton Club
+**Affiliations:** President of Language and Culture Club, Founder of NAU Badminton Club
