@@ -10,11 +10,11 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 ### TECHNOLOGY SKILLS
 
-*   **Front-end**: Javascript and frameworks (Meteor, React, VueJs), HTML, CSS, Wordpress, JAMstack
+*   **Front-end**: Javascript and frameworks (Meteor, React, VueJs), JQuery, HTML, CSS, Wordpress, JAMstack, Bootstrap
 
-*   **Back-end**: Python (Flask and Django), PHP
+*   **Back-end**: Python (Flask and Django), NodeJS, PHP
 
-*   **Other**: Git, GCP, MongoDB, MySQL, SQLAlchemy
+*   **Other**: Git, GCP, MongoDB, MySQL, SQLAlchemy, Plotly, Stripe API
 
 ### EMPLOYMENT HISTORY
 
