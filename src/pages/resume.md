@@ -20,13 +20,16 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 ##### Lead Full-stack Developer // [xmata.io](https://xmata.io) // *June 2020-present*
 
-*   \*Worked with data scientist to \*
+*   Worked with data scientist to develop SaaS application for consuming sentiment analysis visualizations
+*   Designed and developed application using Python Flask, Plotly, Stripe API, GCP, Javascript, Bootstrap
+*   Iterated on features based on customer feedback, improved speed and performance
+*   Led JAMstack implementation for customer facing website
 
 ##### Front-end Developer // [TBD Labs](https://tbdlabs.net/) // 2014 – present
 
-*   Develop and maintain websites and web applications (freelance and contract projects).
-
-Technologies: Python, Flask, Plotly, Javascript, Meteor, Wordpress, HTML, CSS, LESS, git.
+*   Developed and maintained Meteor web applications for monthly invoice management and equipment rentals
+*   Designed and maintained JAMstack sites for small businesses
+*   Implemented minisites for warranty registration
 
 ##### Lead Front-end Developer // Vidcaster (now [vidlet.com](http://vidlet.com)) // December 2011 – August 2014
 
@@ -68,13 +71,17 @@ Technologies: Python, Flask, Plotly, Javascript, Meteor, Wordpress, HTML, CSS, 
 
 ##### Assistant Web Developer // Lanseng Technologies // June 2006 – May 2007
 
-Assisted Lead Developer and Founder at Lanseng Technologies on client projects.
+*   Assisted Lead Developer and Founder at Lanseng Technologies on client projects
+
+*   Worked with MySQL database, learned HTML and CSS
 
 ##### Freelance German to English Translator // April 2003 – May 2005
 
-Technical language (forestry, biogeochemistry, global economics and public policy)
+*   Technical language specialization (forestry, biogeochemistry, global economics and public policy)
 
 *   Published Translator (Thuringian Wood Species, MPI-BGC Jena)
+
+*   Volunteer translations for public policy organizations
 
 ### EDUCATION
 
