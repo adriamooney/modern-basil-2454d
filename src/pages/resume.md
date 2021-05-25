@@ -36,7 +36,7 @@ Technologies: Python, Flask, Plotly, Javascript, Meteor, Wordpress, HTML, CSS, 
 
 *   Upgraded legacy code to more efficient CSS, Bootstrap, Javascipt MVC with REST API
 
-#### Web Developer // [Credit.com](http://www.credit.com) //June 2009 – October 2011
+#### Web Developer // [Credit.com](http://www.credit.com) // June 2009 – October 2011
 
 *   Maintained front-end code and developed new designs and features on a high traffic consumer website with a vast code base
 
@@ -46,9 +46,17 @@ Technologies: Python, Flask, Plotly, Javascript, Meteor, Wordpress, HTML, CSS, 
 
 *   Produced effectively under agile and scrum development cycles
 
-*   Consumed data via XML to build credit card recommendations and tools 
+*   Consumed data via XML to build credit card recommendations and tools
 
-#### Senior Implementation Consultant – [Certain Software](http://certainsoftware.com) October 2007 – May 2009
+##### Senior Implementation Consultant // [Certain Software](http://certainsoftware.com) // October 2007 – May 2009
+
+*   Implemented online event registration software for clients and led web-based training sessions
+
+*   Worked with distributed team on complex implementation and trainings for marquee clients 
+
+*   Interfaced with clients for customer support and best-practice consultation
+
+*   Advocated for and demonstrated better practices in web coding standards when coding client websites
 
 Position Summary: Implemented online event registration software for clients and led web-based training sessions. Used HTML, CSS, and Javascript to customize event registration flows to client specs. Ongoing maintenance and customer support for implementations.
 
