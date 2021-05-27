@@ -54,6 +54,8 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 *   Consumed data via XML to build credit card recommendations and tools
 
+*   Advocate and early adopter of responsive design and mobile-first upgrades 
+
 ##### Senior Implementation Consultant // [Certain Software](http://certainsoftware.com) // 10/07 – 05/09
 
 *   Implemented online event registration software for clients and led web-based training sessions
@@ -80,7 +82,7 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 ##### Freelance German to English Translator // 04/03 – 05/05
 
-*   Technical language specialization (forestry, biogeochemistry, global economics and public policy)
+*   Technical language specialization (forestry, global economics, public policy)
 
 *   Published Translator (Thuringian Wood Species, MPI-BGC Jena)
 
