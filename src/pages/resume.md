@@ -40,7 +40,7 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 *   Developed custom themes for clients as well as design of stock-themes for video site theme builder
 
-*   Upgraded legacy code to more efficient CSS, Bootstrap, Javascipt MVC with REST API
+*   Upgraded legacy code to more efficient CSS, Bootstrap, Javascript MVC with REST API
 
 ##### Web Developer // [Credit.com](http://www.credit.com) // *06/09 – 10/11*
 
@@ -54,7 +54,7 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 *   Consumed data via XML to build credit card recommendations and tools
 
-*   Advocate and early adopter of responsive design and mobile-first upgrades 
+*   Advocate and early adopter of responsive design and mobile-first upgrades
 
 ##### Senior Implementation Consultant // [Certain Software](http://certainsoftware.com) // 10/07 – 05/09
 
