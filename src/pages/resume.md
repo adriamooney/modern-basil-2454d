@@ -19,7 +19,7 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 ### EMPLOYMENT HISTORY
 
-##### Lead Full-stack Developer / Co-founder // [xmata.io](https://xmata.io) // *06/20-present*
+##### Lead Full-stack Developer // [xmata.io](https://xmata.io) // *06/20-present*
 
 *   Worked with data scientist to develop SaaS application for consuming sentiment analysis visualizations
 *   Designed and developed application using Python Flask, Plotly, Stripe API, GCP, Javascript, Bootstrap
