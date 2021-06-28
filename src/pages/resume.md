@@ -60,7 +60,7 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 *   Built Javascript calculators for financial tools
 
-*   Worked with Back-end Developers to implement UI of Credit Report Card
+*   Worked with Back-end developers to implement UI of Credit Report Card
 
 ##### Senior Implementation Consultant // [Certain Software](http://certainsoftware.com) // 10/07 – 05/09
 
