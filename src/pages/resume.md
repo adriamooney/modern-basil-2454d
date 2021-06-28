@@ -42,7 +42,7 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 *   Upgraded legacy code to more efficient CSS, Bootstrap, Javascript MVC with REST API
 
-##### Senior Front-End Developer // [Credit.com](http://www.credit.com) // *12/10 – 10/11*
+##### Senior Front-end Developer // [Credit.com](http://www.credit.com) // *12/10 – 10/11*
 
 *   Developed highly customized Wordpress CMS for content marketing team
 
@@ -52,7 +52,7 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 *   Advocate and early adopter of responsive design and mobile-first upgrades
 
-##### Junior Front-End Developer // [Credit.com](https://credit.com) // 06/09 – 12/10
+##### Junior Front-end Developer // [Credit.com](https://credit.com) // 06/09 – 12/10
 
 *   Worked with sales stakeholders to code landing pages with fast turnaround
 
@@ -60,7 +60,7 @@ Full stack developer with 13 years experience working on startup teams and freel
 
 *   Built Javascript calculators for financial tools
 
-*   Worked with Back-End Developers to implement UI of Credit Report Card
+*   Worked with Back-end Developers to implement UI of Credit Report Card
 
 ##### Senior Implementation Consultant // [Certain Software](http://certainsoftware.com) // 10/07 – 05/09
 
